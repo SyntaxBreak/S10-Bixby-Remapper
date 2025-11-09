@@ -1,4 +1,4 @@
-# S10-Bixby-Remapper
+# S10 Bixby Remapper
 A Kernel SU Bixby remapping module to address the EroFS filesystem of ExtremeROM V2.6+
 
 This is still a very rough version of the project so use it at your own risk. I made this because I could no longer directly update the keylayout file of my S10+ after [ExtremeROM](https://github.com/ExtremeXT/ExtremeROM/releases/tag/v2.6.0) changed to EroFS system partition after version 2.6.
