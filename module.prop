@@ -1,0 +1,6 @@
+id=syntaxbreak.bixbyremap
+name=Bixby Remapper for S10 Series
+version=Alpha Release
+versionCode=0.1
+author=SyntaxBreak
+description="A Kernel SU Bixby remapping module to address the EroFS system partition of ExtremeROM V2.6+"
